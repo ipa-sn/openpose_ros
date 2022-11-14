@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/openpose_ros_wrapper/devel/setup.sh

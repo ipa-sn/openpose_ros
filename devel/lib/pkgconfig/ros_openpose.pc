@@ -1,0 +1,8 @@
+prefix=/home/student/openpose_ros_wrapper/devel
+
+Name: ros_openpose
+Description: Description of ros_openpose
+Version: 0.0.1
+Cflags: -I/home/student/openpose_ros_wrapper/devel/include -I/home/student/openpose_ros_wrapper/src/ros_openpose/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs message_runtime sensor_msgs message_filters

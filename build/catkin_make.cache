@@ -1,0 +1,2 @@
+realsense-ros/realsense2_camera:realsense-ros/realsense2_description:ros_openpose
+-DCATKIN_DEVEL_PREFIX=/home/student/openpose_ros_wrapper/devel -DCMAKE_INSTALL_PREFIX=/home/student/openpose_ros_wrapper/install -G Unix Makefiles
